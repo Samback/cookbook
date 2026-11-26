@@ -170,7 +170,9 @@ window.RECIPES = [
         "status": "Перевірено",
         "checkedAt": "2026-11-26"
       }
-    ]
+    ],
+    "cover": "./assets/covers/blondies.svg",
+    "coverType": "illustration"
   },
   {
     "id": "fondant",
@@ -375,7 +377,9 @@ window.RECIPES = [
         "status": "Перевірено",
         "checkedAt": "2026-11-26"
       }
-    ]
+    ],
+    "cover": "./assets/covers/fondant.svg",
+    "coverType": "illustration"
   },
   {
     "id": "pincher",
@@ -705,6 +709,8 @@ window.RECIPES = [
         "status": "Повторно не підтверджено",
         "checkedAt": "2026-11-26"
       }
-    ]
+    ],
+    "cover": "./assets/covers/pincher.svg",
+    "coverType": "illustration"
   }
 ];
