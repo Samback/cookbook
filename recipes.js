@@ -291,8 +291,8 @@ window.RECIPES = [
       "h": 5
     },
     "area": 452.3893421169302,
-    "source": "https://nv.ua/ukr/",
-    "sourceName": "Володимир Ярославський — адаптація з нашого дослідження (NV; точне посилання ще треба уточнити)",
+    "source": "https://nv.ua/ukr/blogs/recept-shokoladnogo-pinchera-yak-gotuye-cey-tort-suddya-mastershef-volodimir-yaroslavskiy-50658304.html",
+    "sourceName": "Володимир Ярославський — оригінальний рецепт (NV)",
     "note": "Авторська домашня адаптація: менше цукру у кремі та вишні, ганаш замість желатинової глазурі. Не перевірена практичним випіканням. Корж має бути повністю пропечений.",
     "groups": [
       [
