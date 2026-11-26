@@ -141,6 +141,35 @@ window.RECIPES = [
         "Для текучого шоколаду злегка підігрій порцію.",
         "cool"
       ]
+    ],
+    "sources": [
+      {
+        "kind": "Стаття",
+        "title": "John Kanell · Easy Blondies Recipe",
+        "url": "https://preppykitchen.com/blondie-recipe/",
+        "note": "Оцінка 4,98/5 (289 голосів). Автор використовує коричневий цукор, розтоплене масло та одне ціле яйце. Наш варіант змінює співвідношення масла й борошна, додає жовток, темний шоколад і горіхи.",
+        "role": "Основа",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Preppy Kitchen · Blondie Recipe (2020)",
+        "url": "https://www.youtube.com/watch?v=dWzniPCLpqU",
+        "note": "Перше відео, яке обрали під час дослідження.",
+        "role": "Основа",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Preppy Kitchen · Easy Blondie Recipe (2025)",
+        "url": "https://www.youtube.com/watch?v=PNZ-S-IG_N4",
+        "note": "Новіша демонстрація приготування блонді.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      }
     ]
   },
   {
@@ -272,6 +301,80 @@ window.RECIPES = [
         "Подавай теплим. Використовуй прихватки.",
         "cool"
       ]
+    ],
+    "sources": [
+      {
+        "kind": "Стаття",
+        "title": "John Kanell · Chocolate Lava Cake",
+        "url": "https://preppykitchen.com/molten-chocolate-cake/",
+        "note": "Оцінка 4,92/5 (1159 голосів). Базовий рецепт на шість порцій: 113 г масла, 168 г шоколаду, два яйця й два жовтки, 50 г цукру. Автор радить перевіряти металеву форму для мафінів через 5 хвилин. Наші 100-мл PorSi і жовтий цукор — адаптація.",
+        "role": "Основа",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Preppy Kitchen · Chocolate Lava Cake (2019)",
+        "url": "https://www.youtube.com/watch?v=_hQAjxefiGQ",
+        "note": "2,15 млн переглядів і 47 тис. лайків за доступними індексованими даними.",
+        "role": "Основа",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Preppy Kitchen · Easy Chocolate Lava Cake Recipe",
+        "url": "https://www.youtube.com/watch?v=gW3JtHpuzrk",
+        "note": "Новіша демонстрація автора.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Sally’s Baking · Chocolate Lava Cakes",
+        "url": "https://sallysbakingaddiction.com/chocolate-lava-cakes/",
+        "note": "Альтернативний простий рецепт; є рекомендації для форми мафінів.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Gordon Ramsay · Chocolate Fondants",
+        "url": "https://www.gordonramsayrestaurants.com/recipes/chocolate-fondants/",
+        "note": "Ресторанний підхід з більшою кількістю борошна.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Michel Bras · Le biscuit de chocolat coulant",
+        "url": "https://michel-bras-cote-japon.com/blogs/michel-bras-kitchenware-vlog/michel-bras-recipe-christmas-special-molten-chocolate-cake-le-biscuit-de-chocolat-coulant",
+        "note": "Технологія з окремою замороженою шоколадною серединкою.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "King Arthur Baking · Flourless Chocolate Lava Cakes",
+        "url": "https://www.kingarthurbaking.com/recipes/flourless-chocolate-lava-cakes-recipe",
+        "note": "Варіант без борошна.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Donal Skehan · Chocolate Lava Cake",
+        "url": "https://donalskehan.com/recipes/self-saucing-pudding/",
+        "note": "Один великий десерт у формі, а не індивідуальні фондани.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      }
     ]
   },
   {
@@ -519,6 +622,89 @@ window.RECIPES = [
         "Зберігай накритим у холодильнику до 4°C, спожий за 2–3 дні.",
         "finish"
       ]
+    ],
+    "sources": [
+      {
+        "kind": "Стаття",
+        "title": "Володимир Ярославський · Як приготувати шоколадний Пінчер (NV)",
+        "url": "https://nv.ua/ukr/blogs/recept-shokoladnogo-pinchera-yak-gotuye-cey-tort-suddya-mastershef-volodimir-yaroslavskiy-50658304.html",
+        "note": "Авторський корж зі сметаною і згущеним молоком, великий обсяг крему, вишня, горіхи, формування в мисці та нічне просочення. У нашій версії зменшено цукор і замінено глазур на ганаш.",
+        "role": "Основа",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео / Instagram",
+        "title": "Володимир Ярославський · Авторський допис",
+        "url": "https://www.instagram.com/p/DfjXxz-tS1g/",
+        "note": "Пряме посилання з авторської колонки NV; сам допис не вдалося відкрити через обмеження Instagram.",
+        "role": "Основа",
+        "status": "Посилання підтверджене NV; відтворення не перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Українська правда. Життя · Торт Пінчер із шоколадними коржами і вишнею",
+        "url": "https://life.pravda.com.ua/food/shokoladniy-tort-pincher-recept-vid-shef-kuharya-319043/",
+        "note": "Додатковий опис технології Ярославського.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Люкс FM · Шоколадний торт Пінчер",
+        "url": "https://lux.fm/shokoladnij-tort-pincher-vid-volodimira-yaroslavskogo-recept-iz-vishneyu-ta-smetannim-kremom_n240997",
+        "note": "Публікація з вбудованим авторським дописом Instagram.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Марина Пилипенко · Шоколадний пінчер",
+        "url": "https://marinapylypenko.com/tort-shokoladnyj-pincher/",
+        "note": "Домашній варіант із вишнею та горіхами.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Стаття",
+        "title": "Iamcook · Пінчер із вишнею",
+        "url": "https://www.iamcook.ru/showrecipe/1171",
+        "note": "Альтернативний корж, вишня та родзинки.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Everything is delicious · Кучерявий пінчер",
+        "url": "https://www.youtube.com/watch?v=uSOlw0m3SRs",
+        "note": "Популярна демонстрація класичного домашнього варіанта.",
+        "role": "Додаткове",
+        "status": "Перевірено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Go Cakes · Пінчер",
+        "url": "https://www.youtube.com/watch?v=hFk90tz2yAg",
+        "note": "З попереднього дослідження; сметанно-вершковий крем.",
+        "role": "Додаткове",
+        "status": "Повторно не підтверджено",
+        "checkedAt": "2026-11-26"
+      },
+      {
+        "kind": "Відео",
+        "title": "Олена Томашевська · Кучерявий пінчер",
+        "url": "https://www.youtube.com/watch?v=duWjXUxs_y8",
+        "note": "З попереднього дослідження; сучасний крем.",
+        "role": "Додаткове",
+        "status": "Повторно не підтверджено",
+        "checkedAt": "2026-11-26"
+      }
     ]
   }
 ];
